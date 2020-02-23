@@ -117,3 +117,13 @@ footer{
     height: 100px;
     background-color: rgb(41, 41, 41);
 }
+.msg-btn{
+    height: 60px;
+    position: relative;
+    left: 23%;
+    width: 50%;
+    background-image: linear-gradient(90deg,#FF4F95,#FF1470);
+}
+.msg-btn span{
+    font-size: 20px;
+}
