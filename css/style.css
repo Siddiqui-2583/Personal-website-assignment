@@ -1,21 +1,19 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    padding: 0 200px;
 }
-
 section{
     height: 700px;
 }
 h1{
-    font-size: 50px;
-    
+    font-size: 50px; 
 }
 
 h2{
     font-size: 40px;
-    
 }
-p{
+.intro{
     color: dimgray;
     margin-bottom: 30px;
 }
